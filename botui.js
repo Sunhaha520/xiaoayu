@@ -1,5 +1,8 @@
 <script src="https://cdn.jsdelivr.net/npm/vue"></script>
 <script src="build/botui.js"></script>
+<script type="text/javascript" src="https://cdn.bootcss.com/vue/2.0.5/vue.min.js"></script> 
+<script type="text/javascript" src="dist/botui.min.js"></script> 
+<script type="text/javascript"> 
 var botui = new BotUI("fogforest");
 botui.message.bot({
     delay: 200,
