@@ -1,5 +1,5 @@
 
-var botui = new BotUI('my-botui-app');
+var botui = new BotUI('hello-world');
 botui.message.bot({
     delay: 200,
     content: "Hi, there👋"
