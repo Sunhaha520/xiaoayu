@@ -58,7 +58,7 @@ var other = function() {
     }).then(function() {
         return botui.message.bot({
             delay: 1500,
-            content: "不过还是比较熟悉手机刷机、系统安装，还会画CAD"
+            content: "不过目前感觉自己还是个菜鸡"
         })
     }).then(function() {
         return botui.message.bot({
@@ -89,7 +89,7 @@ var other = function() {
     }).then(function(res) {
         return botui.message.bot({
             delay: 1500,
-            content: "emmmmm，服务器提供商给的，没得办法_(:з」∠)_"
+            content: "emmmmm，xiaoayu不就是小阿宇嘛_(:з」∠)_"
         })
     }).then(function(res) {
         return botui.message.bot({
